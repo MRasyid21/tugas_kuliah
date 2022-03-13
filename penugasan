@@ -1,0 +1,11 @@
+#operator penugasan
+nilai = 4
+nillai2 =8
+nilai  +=  3
+nilai2   =+ 2
+print(nilai)
+print(nilai )
+nilai -=2
+print(nilai)
+nilai /=4
+print(nilai)

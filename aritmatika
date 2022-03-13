@@ -1,0 +1,4 @@
+#operator aritmatika
+nilai1 = 4
+nilai2= 6
+print (nilai1 +nilai2)

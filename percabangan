@@ -1,0 +1,5 @@
+#operator percabangan
+
+nilai =90
+if nilai >=70:
+	print("lulus")

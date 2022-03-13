@@ -1,0 +1,13 @@
+#type float 
+print(1.5) 
+ 
+#type data integer 
+
+print(456)
+
+#type datastring 
+print("rasyid")
+
+#type data bolean 
+
+print(True)

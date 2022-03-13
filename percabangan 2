@@ -1,0 +1,5 @@
+umur = 21
+if (umur > 18 and umur < 25):
+	print("sudah beranjak dewasa")
+else :
+	print("masa masa emas")

@@ -1,0 +1,6 @@
+#percabangan 
+nilai  = 60
+if nilai >=85:
+	print("lulus")
+else:
+	print("tidak lulus")
